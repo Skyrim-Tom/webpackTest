@@ -1,0 +1,10 @@
+div {
+    display: inline-block;
+    vertical-align: middle;
+    width: 50px;
+    text-align: center;
+}
+
+div:nth-of-type(odd) {
+    background: yellowgreen;
+}
